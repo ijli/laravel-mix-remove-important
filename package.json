@@ -1,0 +1,28 @@
+{
+  "name": "@ijli/laravel-mix-remove-important",
+  "version": "0.1.0",
+  "description": "laravel-mix remove !important scss",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ijli/laravel-mix-remove-important.git"
+  },
+  "keywords": [
+    "laravel-mix",
+    "scss",
+    "!imporant"
+  ],
+  "author": "ijli",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ijli/laravel-mix-remove-important/issues"
+  },
+  "homepage": "https://github.com/ijli/laravel-mix-remove-important#readme",
+  "devDependencies": {},
+  "dependencies": {
+    "laravel-mix": "^5.0.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
